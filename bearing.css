@@ -1,11 +1,9 @@
-p.normal {
+p.normal, ol.normal {
     color:white;
 }
 p.center img {
     margin:1%;
 }
-p.normal li {
-    margin-left:30%;
-    color:inherit;
-    
+hr {
+    margin-top:30px;
 }
