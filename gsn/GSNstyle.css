@@ -1,0 +1,144 @@
+* {
+   margin: 0;
+}
+html, body {
+   font-size: 14pt;
+   font-family: Palatino Linotype, Book Antiqua, Palatino, serif /*Verdana, Arial, Helvetica, sans-serif*/ ;
+}
+h1 {
+   font-size: 20px;
+   font-family: Verdana, Verdana, Geneva, sans-serif;
+   font-weight: normal;
+   margin-top: 20px;
+}
+h2 {
+   font-family: Verdana,Verdana,Geneva,sans-serif;
+   text-align: left;
+   margin-top:5px;
+   font-size: 18px;
+   font-weight: bold;
+}
+hr {
+   margin-top: 15px;
+   width: 85%;
+   margin-left: auto;
+   margin-right: auto;
+}
+em {
+   font-weight: bold;
+   font-style:italic;
+}
+li {
+   line-height: 1.1;
+   margin-top: 5pt;
+}
+p.topTitle {
+   padding:20px;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+   font-family: Verdana, Verdana, Geneva, sans-serif;
+   font-size:32pt;
+   font-style:italic;
+   line-height:1;
+}
+a:link {
+   text-decoration: none;
+   font-weight:bold;
+}
+a:focus, a:hover, a:active { 
+   outline-style: dotted;
+   outline-width: thin;
+}
+a:visited {
+   text-decoration: underline;
+   font-weight: lighter;
+}
+a.titleLink:link {
+   text-decoration: none
+}
+a.titleLink:visited {
+   text-decoration: none;
+}
+a.mtp:link {
+   text-decoration: underline;
+   font-weight:bold;
+}
+a.mtp:visited {
+   text-decoration: none;
+   font-weight:normal;
+}
+a.fb:link {
+   text-decoration: underline;
+   font-weight:bold;
+}
+a.fb:visited {
+   text-decoration: none;
+   font-weight:normal;
+}
+.textLeft {
+   text-align: left;
+}
+.textCtr {
+   text-align: center;
+}
+.blockCtr {
+   margin-left: auto;
+   margin-right: auto;
+}
+.footer {
+   margin:30px 0 0 0;
+   padding-top:10px;
+   padding-bottom:10px;
+   text-align: center;
+   font-size: 9pt;
+}
+.indentSm {
+   margin-left: 2%;
+}
+.indentMed {
+   margin-left: 5%;
+}
+.indent {
+   margin-left: 5%;
+   margin-right: 10%;
+}
+.indent1 {
+   margin-left: 10%;
+}
+.indent2 {
+   margin-left: 15%;
+}
+.indent3 {
+   margin-left: 20%;
+}
+indent4 {
+   margin-left: 20%;
+}
+.rightIndent2 {
+   margin-right: 15%
+}
+.rightIndent3 {
+   margin-right: 20%
+}
+.center {
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+}
+.logo {
+   font-family: Impact, Arial, Helvetica, sans-serif;
+   font-style: italic;
+   font-size: 48pt;
+}
+.helv {
+   font-family: Arial, Arial, Helvetica, sans-serif;
+}
+.treb {
+   font-family: Trebuchet MS1, Trebuchet MS, sans-serif;
+}
+span.reg {
+   font-size:9px;
+   vertical-align:top;
+}
